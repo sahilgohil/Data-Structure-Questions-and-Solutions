@@ -61,6 +61,15 @@ public static void main(String[] args) {
     // dynamicList.add("hellow arraylist");
     // System.out.println(dynamicList);
 
+    // to get the index of the specific element
+    System.out.println(list.indexOf(10));
+
+    // get the last index of the element using
+    list.lastIndexOf(10);
+
+    // to check of the list is empty returns a boolean
+    System.out.println(list.isEmpty());
+
 
 }
     
